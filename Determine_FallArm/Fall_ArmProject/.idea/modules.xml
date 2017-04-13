@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Fall_ArmProject.iml" filepath="$PROJECT_DIR$/Fall_ArmProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sensorsimulator-lib-2.0-rc1/sensorsimulator-lib-2.0-rc1.iml" filepath="$PROJECT_DIR$/sensorsimulator-lib-2.0-rc1/sensorsimulator-lib-2.0-rc1.iml" />
+    </modules>
+  </component>
+</project>
