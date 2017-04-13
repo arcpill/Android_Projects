@@ -1,0 +1,43 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Archana\AndroidStudioProjects\Chapter_6_Earthquake\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\Archana\AndroidStudioProjects\Chapter_6_Earthquake\app\src\main\AndroidManifest.xml:3:3-32
+		INJECTED from C:\Users\Archana\AndroidStudioProjects\Chapter_6_Earthquake\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Archana\AndroidStudioProjects\Chapter_6_Earthquake\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Archana\AndroidStudioProjects\Chapter_6_Earthquake\app\src\main\AndroidManifest.xml:5:3-28
+		INJECTED from C:\Users\Archana\AndroidStudioProjects\Chapter_6_Earthquake\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Archana\AndroidStudioProjects\Chapter_6_Earthquake\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\Archana\AndroidStudioProjects\Chapter_6_Earthquake\app\src\main\AndroidManifest.xml:4:3-26
+		INJECTED from C:\Users\Archana\AndroidStudioProjects\Chapter_6_Earthquake\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Archana\AndroidStudioProjects\Chapter_6_Earthquake\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Archana\AndroidStudioProjects\Chapter_6_Earthquake\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Archana\AndroidStudioProjects\Chapter_6_Earthquake\app\src\main\AndroidManifest.xml:7:3-64
+	android:name
+		ADDED from C:\Users\Archana\AndroidStudioProjects\Chapter_6_Earthquake\app\src\main\AndroidManifest.xml:7:20-62
+application
+ADDED from C:\Users\Archana\AndroidStudioProjects\Chapter_6_Earthquake\app\src\main\AndroidManifest.xml:9:3-20:17
+	android:label
+		ADDED from C:\Users\Archana\AndroidStudioProjects\Chapter_6_Earthquake\app\src\main\AndroidManifest.xml:11:5-37
+	android:icon
+		ADDED from C:\Users\Archana\AndroidStudioProjects\Chapter_6_Earthquake\app\src\main\AndroidManifest.xml:10:5-41
+activity#com.paad.earthquake.Earthquake
+ADDED from C:\Users\Archana\AndroidStudioProjects\Chapter_6_Earthquake\app\src\main\AndroidManifest.xml:12:5-19:16
+	android:label
+		ADDED from C:\Users\Archana\AndroidStudioProjects\Chapter_6_Earthquake\app\src\main\AndroidManifest.xml:14:7-39
+	android:name
+		ADDED from C:\Users\Archana\AndroidStudioProjects\Chapter_6_Earthquake\app\src\main\AndroidManifest.xml:13:7-33
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Archana\AndroidStudioProjects\Chapter_6_Earthquake\app\src\main\AndroidManifest.xml:15:7-18:23
+action#android.intent.action.MAIN
+ADDED from C:\Users\Archana\AndroidStudioProjects\Chapter_6_Earthquake\app\src\main\AndroidManifest.xml:16:9-61
+	android:name
+		ADDED from C:\Users\Archana\AndroidStudioProjects\Chapter_6_Earthquake\app\src\main\AndroidManifest.xml:16:17-58
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Archana\AndroidStudioProjects\Chapter_6_Earthquake\app\src\main\AndroidManifest.xml:17:9-69
+	android:name
+		ADDED from C:\Users\Archana\AndroidStudioProjects\Chapter_6_Earthquake\app\src\main\AndroidManifest.xml:17:19-66

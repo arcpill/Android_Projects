@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Earthquake</string>
+    <string name="menu_update">Refresh_List</string>
+    <string name="quake_feed">
+    http://earthquake.usgs.gov/earthquakes/map/
+  </string>
+</resources>

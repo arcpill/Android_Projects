@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Archana\\AndroidStudioProjects\\Chapter_6_Earthquake\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\Archana\\AndroidStudioProjects\\Chapter_6_Earthquake\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Archana\\AndroidStudioProjects\\Chapter_6_Earthquake\\app\\build\\intermediates\\res\\merged\\debug\\layout\\quake_details.xml",
+        "source": "C:\\Users\\Archana\\AndroidStudioProjects\\Chapter_6_Earthquake\\app\\src\\main\\res\\layout\\quake_details.xml"
+    }
+]
